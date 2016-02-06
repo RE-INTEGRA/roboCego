@@ -8,5 +8,5 @@
 
 Nome do robo : Robo Truck
 
-Descrição/características: O robo é composto por lego em sua grande maioria e tem como principal função é percorrer distâncias programadas de forma que ele não se danifique. Com um controle de voz adaptado a uma frequência o mesmo pode ir em todas as direções das quais sentirá através de sensores de presença possíveis obstáculos, assim desviando deles e posteriormente procurando outra saída ou pedindo instruções ao comando central.      
+Descrição/características: O robo é composto por lego em sua grande maioria e tem como principal função percorrer distâncias programadas de forma que ele não se danifique. Com um controle de voz adaptado a uma frequência o mesmo pode ir em todas as direções das quais sentirá através de sensores de presença possíveis obstáculos, assim desviando deles e posteriormente procurando outra saída ou pedindo instruções ao comando central.      
 
