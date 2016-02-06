@@ -5,7 +5,7 @@
 
 [Link sobre funcionalidades](https://github.com/RE-INTEGRA/roboCego/blob/master/funcionalidades.md)
 
-[Link sobre os materiais](ttps://github.com/RE-INTEGRA/roboCego/edit/master/listaMateriais.md)
+[Link sobre os materiais](https://github.com/RE-INTEGRA/roboCego/blob/master/listaMateriais.md)
 
 Nome do robo : Robo Truck
 
